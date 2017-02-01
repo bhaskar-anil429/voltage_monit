@@ -1,5 +1,7 @@
 /////////////////////////////// test code for voltage monitoring ///////////////////////////////
 //Include Particle Wire I2C Library
+///thank you chuck for editing this for photon.
+
 #include <spark_wiring_i2c.h>
 int address = 42; // I2C address
 
